@@ -1,0 +1,5 @@
+{
+  "name": "with-static-file",
+  "type": "app",
+  "defaultPage": "home"
+}
