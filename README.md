@@ -1,0 +1,1 @@
+# with-static-file-bellini-app
